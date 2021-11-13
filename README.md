@@ -4,7 +4,7 @@
     <li>:closed_book: 1. Semester
         <ul>
             <li>
-                <a href="https://github.com/funkycitizen24/Grundlagen-der-Progra">
+                <a href="https://github.com/funkycitizen24/Grundlagen-der-Programmierung">
                     :keyboard: Grundlagen der Programmierung
                 </a>
             </li>
