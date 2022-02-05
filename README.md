@@ -13,14 +13,14 @@
     <li>:green_book: 2. Semester
         <ul>
             <li>
-                <a href="">
+                <a href="https://github.com/funkycitizen24/Betriebssysteme">
                     :computer: Betriebssysteme
                 </a>
             </li>
         </ul>
         <ul>
             <li>
-                <a href="https://github.com/funkycitizen24/Betriebssysteme">
+                <a href="">
                     :postbox: Daten Strukturen und Algorithmen
                 </a>
             </li>
