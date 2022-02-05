@@ -21,13 +21,6 @@
         <ul>
             <li>
                 <a href="">
-                    :postbox: Daten Strukturen und Algorithmen
-                </a>
-            </li>
-        </ul>
-        <ul>
-            <li>
-                <a href="">
                     :penguin: Objekt-Orientierte Programmierung
                 </a>
             </li>
@@ -38,11 +31,6 @@
             <li>
                 <a href="https://github.com/funkycitizen24/Fortgeschrittene-Programmierung">
                     :dvd: Fortgeschrittene Programmierung
-                </a>
-            </li>
-            <li>
-                <a href="">
-                    :bar_chart: Wahrscheinlichkeitstheorie und Statistik
                 </a>
             </li>
             <li>
