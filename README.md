@@ -26,18 +26,13 @@
             </li>
         </ul>
     </li>
-    <li>:blue_book: 3. Semester
+    <li>:orange_book: 4. Semester
         <ul>
             <li>
-                <a href="https://github.com/funkycitizen24/Fortgeschrittene-Programmierung">
-                    :dvd: Fortgeschrittene Programmierung
+                <a href="https://github.com/funkycitizen24/Kunstliche-Intelligenz">
+                    🤖Künstliche Intelligenz
                 </a>
-            </li>
-            <li>
-                <a href="">
-                   :whale2: Logische Programmierung
-                </a>
-            </li>
+            </li> 
         </ul>
     </li>
 </ul>
