@@ -26,7 +26,6 @@
             </li>
         </ul>
     </li>
-    
         <li>:blue_book: 3. Semester
         <ul>
             <li>
