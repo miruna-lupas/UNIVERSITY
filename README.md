@@ -26,6 +26,15 @@
             </li>
         </ul>
     </li>
+    
+        <li>:blue_book: 3. Semester
+        <ul>
+            <li>
+                <a href="https://github.com/funkycitizen24/Fortgeschrittene-Programmierung">
+                    :computer: Fortgeschrittene Programmierung
+                </a>
+            </li>
+        </ul>
     <li>:orange_book: 4. Semester
         <ul>
             <li>
