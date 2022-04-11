@@ -37,8 +37,8 @@
     <li>:orange_book: 4. Semester
         <ul>
             <li>
-                <a href="https://github.com/funkycitizen24/Kunstliche-Intelligenz">
-                    🤖Künstliche Intelligenz
+                <a href="">
+                    🤖Web-Programmierung
                 </a>
             </li> 
         </ul>
