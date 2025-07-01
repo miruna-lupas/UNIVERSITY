@@ -4,7 +4,7 @@
     <li>:closed_book: 1. Semester
         <ul>
             <li>
-                <a href="https://github.com/funkycitizen24/Grundlagen-der-Programmierung">
+                <a href="https://github.com/miruna-lupas/Grundlagen-der-Programmierung">
                     :keyboard: Grundlagen der Programmierung
                 </a>
             </li>
@@ -13,7 +13,7 @@
     <li>:green_book: 2. Semester
         <ul>
             <li>
-                <a href="https://github.com/funkycitizen24/Betriebssysteme">
+                <a href="https://github.com/miruna-lupas/Betriebssysteme">
                     :computer: Betriebssysteme
                 </a>
             </li>
@@ -29,7 +29,7 @@
         <li>:blue_book: 3. Semester
         <ul>
             <li>
-                <a href="https://github.com/funkycitizen24/Fortgeschrittene-Programmierung">
+                <a href="https://github.com/miruna-lupas/Fortgeschrittene-Programmierung">
                     :computer: Fortgeschrittene Programmierung
                 </a>
             </li>
