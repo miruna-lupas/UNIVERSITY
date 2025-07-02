@@ -29,8 +29,8 @@
         <li>:blue_book: 3. Semester
         <ul>
             <li>
-                <a href="https://github.com/miruna-lupas/Fortgeschrittene-Programmierung">
-                    :computer: Fortgeschrittene Programmierung
+                <a href="https://github.com/miruna-lupas/java-advanced-programming-methods">
+                    :computer: Java - Fortgeschrittene Programmierung
                 </a>
             </li>
         </ul>
